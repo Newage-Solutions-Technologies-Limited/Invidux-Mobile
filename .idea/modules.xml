@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/inviduxmobileapp.iml" filepath="$PROJECT_DIR$/inviduxmobileapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/inviduxmobileapp_android.iml" filepath="$PROJECT_DIR$/android/inviduxmobileapp_android.iml" />
+    </modules>
+  </component>
+</project>
